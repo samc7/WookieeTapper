@@ -10,7 +10,7 @@ repeatedly come back for more Juice. You are the only bartender available to sli
 you must make sure you recollect their mugs as you do not have an infinite stash.
 
 ## How to Run and Play
-The game is programmed in Java, using Processing libraries.
+The game is programmed in Java, using [Processing](https://processing.org) libraries.
 
 To Play:
 1. Install [Java](https://https://www.java.com/en/download)
