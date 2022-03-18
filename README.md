@@ -17,10 +17,3 @@ To Play:
 2. Download and unzip this repository
 3. Run **/dist/WookieeTapper.jar**
 4. Enjoy!
-
-To View Code:
-1. Install [Java](https://https://www.java.com/en/download)
-2. Install [Eclipse](https://www.eclipse.org/downloads)
-3. Download and unzip this repository
-4. Import the **WookieeTapper_Chowdhury** folder as a Java project to Eclipse
-5. Files can be viewed and edited.
